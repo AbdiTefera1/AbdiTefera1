@@ -11,7 +11,7 @@ I’m a passionate **Full Stack Developer** with experience in building **Web an
 - **UI/UX Design**: Craft user experiences using tools like Figma ensuring seamless design to development workflows.
 
 ### 🌟 Featured Projects:
-I’m currently working on various projects, including my portfolio project, showcasing my skills across **Web, Mobile, and Design** projects. Check them out on my [Repositories](https://github.com/AbdiTefera).
+I’m currently working on various projects, including my portfolio project, showcasing my skills across **Web, Mobile, and Design** projects.
 
 ### ⚡ Technologies I Love:
 - **Frontend**: React.js, Next.js, HTML, CSS, JavaScript, TypeScript
@@ -21,7 +21,7 @@ I’m currently working on various projects, including my portfolio project, sho
 
 ### 🌍 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/abditefera/)
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio](https://abditefera.vercel.app/)
 - [Twitter](https://x.com/abditefera1)
 - [Telegram](t.me/abditefera)
 - [Tiktok](https://www.tiktok.com/@design2develop)
